@@ -15,6 +15,7 @@ let isProfitablePerUnit = profitPerUnit > 0
 
 
 console.log(productName)
+console.log("Discodunted price (before tax): $" + discountedPrice.toFixed(2))
 console.log("Final Price with Tax: $" + finalPriceWithTax.toFixed(2))
 console.log("Profit per Unit: $" + profitPerUnit.toFixed(2))
 console.log("Break-Even Units: " + breakEvenUnits)
