@@ -1,4 +1,4 @@
-let productName = "Super Duper Water bottle";
+let productName = "Super Duper Water bottle"; // Name of the product
 
 let costPerUnit = 15.00
 let basePrice = 30.00
@@ -14,7 +14,7 @@ let breakEvenUnits = Math.ceil(fixedmonthlyCosts / profitPerUnit)
 let isProfitablePerUnit = profitPerUnit > 0
 
 
-console.log(productName/n)
+console.log(productName)
 console.log("Final Price with Tax: $" + finalPriceWithTax.toFixed(2))
 console.log("Profit per Unit: $" + profitPerUnit.toFixed(2))
 console.log("Break-Even Units: " + breakEvenUnits)
