@@ -1,1 +1,1 @@
-Coding Challenge 02a: Product Pricing Assistant
+Product Pricing Assistant (a)
